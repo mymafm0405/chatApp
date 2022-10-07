@@ -2,8 +2,8 @@ import React from 'react'
 
 export default function Login() {
   return (
-    <div className='container'>
-        <div className='wrapper'>
+    <div className='formContainer'>
+        <div className='formWrapper'>
             <span className='logo'>Mahmoud Chat</span>
             <span className='title'>Login</span>
             <form>

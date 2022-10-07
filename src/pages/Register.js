@@ -3,8 +3,8 @@ import Add from '../images/add.png'
 
 export default function Register() {
   return (
-    <div className='container'>
-        <div className='wrapper'>
+    <div className='formContainer'>
+        <div className='formWrapper'>
             <span className='logo'>Mahmoud Chat</span>
             <span className='title'>Register</span>
             <form>
